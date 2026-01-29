@@ -19,7 +19,7 @@ Data‑аналитик с научным бэкграундом: совмеща
 ## Связь со мной
 
 - Телефон: +7 921 422‑65‑75
-- Email: [031100p@gmail.com](a href="mailto:031100p@gmail.com")
+- Email: [031100p@gmail.com](mailto:031100p@gmail.com)
 - Telegram: [@zaryanka22](https://t.me/@zaryanka22)
 
 
