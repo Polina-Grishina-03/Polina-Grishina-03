@@ -36,4 +36,4 @@ Data‑аналитик с научным бэкграундом: совмеща
 |---------------|--------|-------|--------|
 | Аналитик данных (6 месяцев) | KARPOV.COURSES | 2025 | [рус.](https://lab.karpov.courses/certificate/617620a7-76d4-4db7-86e3-fd970badb69b/) [англ.](https://lab.karpov.courses/certificate/617620a7-76d4-4db7-86e3-fd970badb69b/en/) |
 | Симулятор SQL | KARPOV.COURSES | 2025 | [рус.](https://lab.karpov.courses/certificate/f2b3060a-6ddf-4644-bf3b-7050a3fa879d/) [англ.](https://lab.karpov.courses/certificate/f2b3060a-6ddf-4644-bf3b-7050a3fa879d/en/) |
-| Основы Python | KARPOV.COURSES | 2025 | [рус.](Основы Python.pdf) [англ.](Python Basics.pdf) |
+| Основы Python | KARPOV.COURSES | 2025 | [рус.](https://lab.karpov.courses/certificate/be2b1f58-a057-419f-a27f-62f99e893623/) [англ.](https://lab.karpov.courses/certificate/be2b1f58-a057-419f-a27f-62f99e893623/en/) |
